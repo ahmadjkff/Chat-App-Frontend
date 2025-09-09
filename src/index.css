@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@plugin "daisyui";
+
+button {
+  cursor: pointer;
+}
+
+@plugin "daisyui" {
+  themes: all;
+}
